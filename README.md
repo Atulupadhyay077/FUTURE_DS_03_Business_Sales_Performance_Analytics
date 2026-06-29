@@ -1,4 +1,4 @@
-# 📊 Sales Prediction using Advertising Data
+# 📊 Business Sales Performance Analysis:
 
 [![Live Demo](https://img.shields.io/badge/LIVE-DEMO-red?style=for-the-badge&logo=streamlit)](https://sales-prediction-using-python.onrender.com)
 [![Status](https://img.shields.io/badge/STATUS-ONLINE-green?style=for-the-badge&logo=python)](https://sales-prediction-using-python.onrender.com)
